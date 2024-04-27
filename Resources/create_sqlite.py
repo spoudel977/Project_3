@@ -1,5 +1,3 @@
-print("creating sqlite")
-
 import sqlite3
 import pandas as pd
 
